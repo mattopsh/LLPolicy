@@ -1,4 +1,4 @@
-# LLPolicy
+# LearnLang Privacy Policy
 
 CAMERA
 Used for permissions that are associated with accessing camera or capturing images/video from the device.
